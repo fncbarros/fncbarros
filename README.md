@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A software development student @42Lisbon</h3>
 
-- 🔭 I’m currently working on [Cub3d](https://github.com/fncbarros/cub3d)
+- 🔭 I’m currently working on [CPP/modules](https://github.com/fncbarros/CPP-modules) at 42Lisboa
 
 - 🌱 I’m currently learning **C++**
+
+- Software developper at Critical Techworks, S.A.(Lisbon, Portugal)
 
 - 📫 How to reach me **barrosfnc@gmail.com**
 
