@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">A software development student @42Lisbon</h3>
+<h3 align="center">A software developper based in Lisbon, Portugal </h3>
 
-- 🔭 I’m currently working on [CPP/modules](https://github.com/fncbarros/CPP-modules) at 42Lisboa
+- Currently working as a **C++** developper at [Critical Techworks, S.A.](https://www.criticaltechworks.com/)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently finishing a course at **42Lisboa**
 
-- Software developper at Critical Techworks, S.A.(Lisbon, Portugal)
+- 🔭 I’m currently working on [ft_irc](https://github.com/fncbarros/ft_irc) with [falmeida42](https://github.com/falmeida42/falmeida42) at 42Lisboa
 
 - 📫 How to reach me **barrosfnc@gmail.com**
 
