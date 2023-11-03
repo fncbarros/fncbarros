@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently finishing a course at **42Lisboa**
 
-- 🔭 I’m currently working on [ft_irc](https://github.com/fncbarros/ft_irc) with [falmeida42](https://github.com/falmeida42/falmeida42) at 42Lisboa
+- 🔭 I’m currently working on [ft_transcendence](https://github.com/falmeida42/transcendence) with [falmeida42](https://github.com/falmeida42/falmeida42) at 42Lisboa
 
 - 📫 How to reach me **barrosfnc@gmail.com**
 
