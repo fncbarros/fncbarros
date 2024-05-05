@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A software developper based in Lisbon, Portugal </h3>
 
-- Currently working as a **C++** developper at [Critical Techworks, S.A.](https://www.criticaltechworks.com/)
+- Working as a **C++** developper at [Critical Techworks, S.A.](https://www.criticaltechworks.com/)
 
-- 🌱 I’m currently finishing a course at **42Lisboa**
+- 🌱 Currently learning Rust
 
-- 🔭 I’m currently working on [ft_transcendence](https://github.com/falmeida42/transcendence) with [falmeida42](https://github.com/falmeida42/falmeida42) at 42Lisboa
+- 🔭 Looking into diving into TensorFlow and ML too 
 
 - 📫 How to reach me **barrosfnc@gmail.com**
 
